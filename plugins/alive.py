@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
 ✨ ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ...
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Social_mechanic_1997)...
+ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Social_mechanic)...
 ━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
     [
@@ -48,7 +48,7 @@ async def start_(client: Client, message: Message):
         ],
         [
             InlineKeyboardButton("📝 ᴄᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/ANGEL-VC-MUSIC-BOT-05-22"),
-            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/social_mechanic_1997")
+            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/social_mechanic")
         ],
         [
             InlineKeyboardButton("👥 ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url="https://t.me/tamil_chat_group_1"),
