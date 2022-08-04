@@ -89,7 +89,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: SOCIAL MECHANIC (@Social_mechanic)",
+        f"Powered By: SARATHI KING (@Sarathi_Admin)",
         (255, 255, 255),
         font=font,
     )
@@ -141,12 +141,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Social_mechanic_1997)** ")
+                        f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Sarathi_editzz)** ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Social_mechanic_1997)*")
+            f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Sarathi_Editzz)*")
         return
     
     audio = (
@@ -172,8 +172,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Tamil_chat_group_1"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/social_mechanic"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/namma_pasanga_group"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/sarathi_editzz"),
             ]
         ]
     )
@@ -209,8 +209,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Tamil_chat_group_1"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/social_mechanic"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/namma_pasanga_group"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/sarathi_editzz"),
             ]
         ]
     )
@@ -223,8 +223,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/tamil_chat_group_1"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/social_mechanic"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/namma_pasanga_group"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/sarathi_editzz"),
             ]
         ]
     )
@@ -275,8 +275,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Tamil_chat_group_1"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/social_mechanic"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/namma_pasanga_group"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/sarathi_editzz"),
             ]
         ]
     )
