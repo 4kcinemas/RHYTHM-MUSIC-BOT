@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
 ✨ ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ...
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [sᴏᴄɪᴀʟ ᴍᴇᴄʜᴀɴɪᴄ](https://t.me/Social_mechanic)...
+ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [sᴀʀᴀᴛʜɪ](https://t.me/Sarathi_Admin)...
 ━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
     [
@@ -48,14 +48,14 @@ async def start_(client: Client, message: Message):
         ],
         [
             InlineKeyboardButton("📝 ᴄᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/ANGEL-VC-MUSIC-BOT-05-22"),
-            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://github.com/SOCIAL-MECHANIC-1997")
+            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://github.com/4kcinemas")
         ],
         [
-            InlineKeyboardButton("👥 ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url="https://t.me/tamil_chat_group_1"),
-            InlineKeyboardButton("📣 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url="https://t.me/social_mechanic")
+            InlineKeyboardButton("👥 ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url="https://t.me/namma_pasanga_group"),
+            InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Sarathi_Editzz")
         ],
         [
-            InlineKeyboardButton("💠 ʏᴏᴜᴛᴜʙᴇ 💠", url="https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ")
+            InlineKeyboardButton("💠 ʏᴏᴜᴛᴜʙᴇ 💠", url="https://youtube.com/c/SarathiEditzzOfficial")
         ]
    
      ]
@@ -71,8 +71,8 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="👥 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/tamil_chat_group_1"),
-                InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/social_mechanic"),
+                InlineKeyboardButton(text="👥 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Namma_Pasanga_Group"),
+                InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Sarathi_Editzz"),
             ]
         ]
      ),
@@ -88,7 +88,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴊᴏɪɴ ᴛʜᴇsᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", url=f"https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ")
+                        "ᴊᴏɪɴ ᴛʜᴇsᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", url=f"https://youtube.com/c/SarathiEditzzOfficial")
                 ]
             ]
         ),
